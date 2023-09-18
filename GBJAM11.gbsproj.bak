@@ -1099,8 +1099,8 @@
             "autoFadeSpeed": 1,
             "id": "68e656e2-f7eb-4fda-bfc0-38dc80f3b51b",
             "symbol": "scene_1",
-            "x": 555.2437550663939,
-            "y": 435.8718775431306,
+            "x": 532.5770883997286,
+            "y": 439.87187754313175,
             "actors": [
                 {
                     "name": "",
@@ -10410,9 +10410,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 1.6666666269302368,
-        "worldScrollY": 342.5,
-        "zoom": 100,
+        "worldScrollX": 595.8333129882812,
+        "worldScrollY": 556.6666259765625,
+        "zoom": 150,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
