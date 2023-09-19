@@ -1,6 +1,6 @@
 {
     "name": "GBJAM11",
-    "author": "pmanl_elk0z95",
+    "author": "Junes and Knrc",
     "_version": "3.1.0",
     "_release": "3",
     "scenes": [
@@ -23713,8 +23713,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 286,
-        "worldScrollY": 507,
+        "worldScrollX": 591,
+        "worldScrollY": 0,
         "zoom": 125,
         "customColorsEnabled": true,
         "sgbEnabled": false,
@@ -23743,9 +23743,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            504,
-            30,
-            749
+            253,
+            1000,
+            30
         ],
         "showNavigator": true,
         "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
