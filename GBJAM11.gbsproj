@@ -26267,6 +26267,106 @@
             "id": "4",
             "name": "totalCollectionItems",
             "symbol": "var_totalcollectionitems"
+        },
+        {
+            "id": "5",
+            "name": "forestTreasure01",
+            "symbol": "var_foresttreasure01"
+        },
+        {
+            "id": "6",
+            "name": "forestTreasure02",
+            "symbol": "var_foresttreasure02"
+        },
+        {
+            "id": "7",
+            "name": "forestTreasure03",
+            "symbol": "var_foresttreasure03"
+        },
+        {
+            "id": "8",
+            "name": "forestTreasure04",
+            "symbol": "var_foresttreasure04"
+        },
+        {
+            "id": "9",
+            "name": "forestTreasure05",
+            "symbol": "var_foresttreasure05"
+        },
+        {
+            "id": "10",
+            "name": "corealTreasure01",
+            "symbol": "var_corealtreasure01"
+        },
+        {
+            "id": "11",
+            "name": "corealTreasure02",
+            "symbol": "var_corealtreasure02"
+        },
+        {
+            "id": "12",
+            "name": "corealTreasure04",
+            "symbol": "var_corealtreasure04"
+        },
+        {
+            "id": "13",
+            "name": "corealTreasure03",
+            "symbol": "var_corealtreasure03"
+        },
+        {
+            "id": "14",
+            "name": "corealTreasure05",
+            "symbol": "var_corealtreasure05"
+        },
+        {
+            "id": "15",
+            "name": "mountainTreasure01",
+            "symbol": "var_mountaintreasure01"
+        },
+        {
+            "id": "16",
+            "name": "mountainTreasure02",
+            "symbol": "var_mountaintreasure02"
+        },
+        {
+            "id": "17",
+            "name": "mountainTreasure03",
+            "symbol": "var_mountaintreasure03"
+        },
+        {
+            "id": "18",
+            "name": "mountainTreasure04",
+            "symbol": "var_mountaintreasure04"
+        },
+        {
+            "id": "19",
+            "name": "mountainTreasure05",
+            "symbol": "var_mountaintreasure05"
+        },
+        {
+            "id": "20",
+            "name": "desertTreasure01",
+            "symbol": "var_deserttreasure01"
+        },
+        {
+            "id": "21",
+            "name": "desertTreasure02",
+            "symbol": "var_deserttreasure02"
+        },
+        {
+            "id": "22",
+            "name": "desertTreasure03",
+            "symbol": "var_deserttreasure03"
+        },
+        {
+            "id": "23",
+            "name": "desertTreasure04",
+            "symbol": "var_deserttreasure04"
+        },
+        {
+            "id": "24",
+            "name": "desertTreasure05",
+            "symbol": "var_deserttreasure05"
         }
     ],
     "engineFieldValues": [
@@ -26284,8 +26384,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 2109,
-        "worldScrollY": 383,
+        "worldScrollX": 2234,
+        "worldScrollY": 219,
         "zoom": 325,
         "customColorsEnabled": true,
         "sgbEnabled": false,
