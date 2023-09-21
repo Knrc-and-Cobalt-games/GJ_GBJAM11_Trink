@@ -1099,8 +1099,8 @@
             "autoFadeSpeed": 1,
             "id": "68e656e2-f7eb-4fda-bfc0-38dc80f3b51b",
             "symbol": "scene_1",
-            "x": 1747.2437550663956,
-            "y": 242.53854420979852,
+            "x": 1920.1326439552847,
+            "y": 258.9829886542431,
             "actors": [
                 {
                     "name": "",
@@ -1147,6 +1147,102 @@
                     "id": "282af8bb-3ee5-4dbb-9aee-19730120f52e",
                     "x": 17,
                     "y": 1
+                },
+                {
+                    "name": "Shovel hole",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "11b5452b-187c-43a3-afb1-a1f4f74ffda2",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_6",
+                    "script": [
+                        {
+                            "command": "EVENT_GROUP",
+                            "args": {
+                                "__label": "Digging a Hole"
+                            },
+                            "children": {
+                                "true": [
+                                    {
+                                        "command": "EVENT_IF_TRUE",
+                                        "args": {
+                                            "variable": "25",
+                                            "__collapseElse": true
+                                        },
+                                        "children": {
+                                            "true": [
+                                                {
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": [
+                                                            "You digged a pokerchip"
+                                                        ],
+                                                        "avatarId": ""
+                                                    },
+                                                    "id": "458df7c1-3a01-437b-bdd8-c564f8890da8"
+                                                },
+                                                {
+                                                    "command": "EVENT_ACTOR_DEACTIVATE",
+                                                    "args": {
+                                                        "actorId": "$self$"
+                                                    },
+                                                    "id": "da516440-f29c-4f7a-a218-51e469abb384"
+                                                },
+                                                {
+                                                    "command": "EVENT_ACTOR_HIDE",
+                                                    "args": {
+                                                        "actorId": "$self$"
+                                                    },
+                                                    "id": "567dedbd-f5f0-4bae-9f6f-16ed920e162f"
+                                                }
+                                            ],
+                                            "false": []
+                                        },
+                                        "id": "52d466ba-a900-452d-b9c6-bbbdfa54a1bd"
+                                    },
+                                    {
+                                        "command": "EVENT_TEXT",
+                                        "args": {
+                                            "text": [
+                                                "You need a shovel\nto dig a hole"
+                                            ],
+                                            "avatarId": ""
+                                        },
+                                        "id": "bd411c74-5abd-4b41-b303-7f2af325666f"
+                                    },
+                                    {
+                                        "command": "EVENT_VARIABLE_MATH",
+                                        "args": {
+                                            "vectorX": "25",
+                                            "operation": "set",
+                                            "other": "true",
+                                            "vectorY": "L0",
+                                            "value": "0",
+                                            "minValue": "0",
+                                            "maxValue": "32767",
+                                            "clamp": false
+                                        },
+                                        "id": "3ddf06ad-7b9f-40fa-aeb5-a9db0ab0328f"
+                                    }
+                                ]
+                            },
+                            "id": "0e935efe-c608-4822-81f0-bb41537f7307"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "8574bae0-1f6a-4099-a6fe-4a88bcc4e42f",
+                    "x": 16,
+                    "y": 9
                 }
             ],
             "triggers": [],
@@ -27355,6 +27451,21 @@
             "id": "24",
             "name": "desertTreasure05",
             "symbol": "var_deserttreasure05"
+        },
+        {
+            "id": "25",
+            "name": "toolShovel",
+            "symbol": "var_toolshovel"
+        },
+        {
+            "id": "26",
+            "name": "toolFishingRod",
+            "symbol": "var_toolfishingrod"
+        },
+        {
+            "id": "27",
+            "name": "toolHammer",
+            "symbol": "var_toolhammer"
         }
     ],
     "engineFieldValues": [
@@ -27372,9 +27483,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 912,
-        "worldScrollY": 29,
-        "zoom": 175,
+        "worldScrollX": 1720,
+        "worldScrollY": 106,
+        "zoom": 275,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
@@ -27404,7 +27515,7 @@
         "navigatorSplitSizes": [
             253,
             202,
-            828
+            831
         ],
         "showNavigator": true,
         "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
