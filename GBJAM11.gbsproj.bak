@@ -21157,7 +21157,7 @@
             "playerHit3Script": []
         },
         {
-            "name": "Scene 29",
+            "name": "Knrc and June Presents",
             "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
             "width": 20,
             "height": 18,
@@ -29518,9 +29518,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 0,
-        "worldScrollY": 2076,
-        "zoom": 275,
+        "worldScrollX": 1,
+        "worldScrollY": 15,
+        "zoom": 125,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
