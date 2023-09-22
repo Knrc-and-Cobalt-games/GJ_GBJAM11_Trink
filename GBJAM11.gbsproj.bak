@@ -1477,7 +1477,7 @@
                             "args": {
                                 "variable": "L0",
                                 "__collapseElse": false,
-                                "__collapse": false
+                                "__collapse": true
                             },
                             "children": {
                                 "true": [
@@ -4048,7 +4048,7 @@
                             "value": 0
                         },
                         "speed": 1,
-                        "__collapse": true
+                        "__collapse": false
                     },
                     "id": "3660d7fd-8fc9-4963-85d5-9cc8e6d32473"
                 }
@@ -4969,8 +4969,8 @@
             "autoFadeSpeed": 1,
             "id": "c69ff95c-9e76-4bbb-8691-70e28f3e5d64",
             "symbol": "scene_8",
-            "x": 793.104761904762,
-            "y": 179.65541125541074,
+            "x": 845.1047619047621,
+            "y": 134.0554112554106,
             "actors": [
                 {
                     "name": "Mountain Counter",
@@ -8726,7 +8726,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "1054a722-6466-4363-8118-a16eb47aeda5"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -9371,7 +9380,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "48fbe073-237e-4794-80ec-e58f65743b47"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -9847,7 +9865,7 @@
                                         "command": "EVENT_SWITCH_SCENE",
                                         "args": {
                                             "sceneId": "259aa361-e7cf-426b-a814-5de1c49c5caf",
-                                            "x": 0,
+                                            "x": 18,
                                             "y": 14,
                                             "direction": "",
                                             "fadeSpeed": "2"
@@ -10016,7 +10034,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "c64929b4-e6d7-4b6d-943b-e203c5189a4a"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -10661,7 +10688,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "855a296d-6356-442c-a08f-8431067322c9"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -11306,7 +11342,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "ef055148-780f-4ba8-b0bb-de97593d64f1"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -11951,10 +11996,20 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "50f635fe-cc6f-4289-b939-94a6690ddf1f"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
-            "playerHit3Script": []
+            "playerHit3Script": [],
+            "autoFadeEventCollapse": false
         },
         {
             "name": "Coral Item 04",
@@ -12596,7 +12651,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "4cff0a9e-abda-416e-afaa-ca6e3b20698e"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -13241,7 +13305,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "0a1c3434-b3ad-472d-a1d9-bd390a1d92e7"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -13886,7 +13959,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "0421595f-fe67-4fc0-958a-03436af90e1f"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -14264,7 +14346,7 @@
             "autoFadeSpeed": 1,
             "id": "04cb7340-00c4-44b3-86b2-7bd554969113",
             "symbol": "scene_18",
-            "x": 673.5999999999996,
+            "x": 674.3999999999995,
             "y": 835.1999999999992,
             "actors": [],
             "triggers": [
@@ -14531,7 +14613,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "a314f65f-82de-4a49-8a9a-b1d518b10b41"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -15176,7 +15267,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "0b6f0ce2-a19d-4a55-a939-a34f31ec213d"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -15554,8 +15654,8 @@
             "autoFadeSpeed": 1,
             "id": "7c4e3e89-4c52-4dac-9b6c-58a33bc29503",
             "symbol": "scene_20",
-            "x": 1041.6000000000006,
-            "y": 862.3999999999995,
+            "x": 1044.0000000000023,
+            "y": 864.7999999999994,
             "actors": [],
             "triggers": [
                 {
@@ -15821,7 +15921,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "5bc98497-ac20-48af-888c-54436f805ed2"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -16466,7 +16575,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "2755a9a5-002e-40fc-aab1-32626f850717"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -17111,7 +17229,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "1ff3ce6a-fe75-445b-bb76-2c931f088a1a"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -17489,7 +17616,7 @@
             "autoFadeSpeed": 1,
             "id": "094f7ccc-7192-4c14-b9d4-56929a1d1659",
             "symbol": "scene_23",
-            "x": 677.5999999999999,
+            "x": 679.2,
             "y": 1138.4000000000008,
             "actors": [],
             "triggers": [
@@ -17756,7 +17883,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "bd0e6319-e74f-4c7e-a5bc-16904d2be418"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -18401,7 +18537,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "7b904688-9720-4fd9-a037-4c5afaefff93"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -19046,7 +19191,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "9dd4fefd-a7d2-410c-8e9e-c4506d608948"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -19691,7 +19845,16 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_PLAYER_SET_SPRITE",
+                    "args": {
+                        "spriteSheetId": "9cde2026-872b-4991-9eea-3d6598353a2e",
+                        "persist": false
+                    },
+                    "id": "a0a8fc11-944e-41a6-a9e0-b616da15926e"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -20821,8 +20984,8 @@
             "autoFadeSpeed": 1,
             "id": "7e2aa1cd-3cf4-4035-bf93-57e5052e3a36",
             "symbol": "scene_28",
-            "x": 164,
-            "y": 393.33333333333337,
+            "x": 379.20000000000016,
+            "y": 53.33333333333341,
             "actors": [],
             "triggers": [],
             "script": [
@@ -20989,6 +21152,388 @@
                     "id": "bd6e8318-7642-4753-8fd7-3e33806bf322"
                 }
             ],
+            "playerHit1Script": [],
+            "playerHit2Script": [],
+            "playerHit3Script": []
+        },
+        {
+            "name": "Scene 29",
+            "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+            "width": 20,
+            "height": 18,
+            "type": "TOPDOWN",
+            "paletteIds": [],
+            "spritePaletteIds": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "autoFadeSpeed": 1,
+            "id": "b3eaece9-5d9f-4a96-9ef4-951f56fc30fb",
+            "symbol": "scene_29",
+            "x": 91.19999999999999,
+            "y": 251.2,
+            "actors": [],
+            "triggers": [],
+            "script": [],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": []
@@ -28973,9 +29518,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 2892,
-        "worldScrollY": 628,
-        "zoom": 225,
+        "worldScrollX": 0,
+        "worldScrollY": 2076,
+        "zoom": 275,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
@@ -29003,9 +29548,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            256,
-            205,
-            847
+            249,
+            199,
+            860
         ],
         "showNavigator": true,
         "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
