@@ -47613,7 +47613,13 @@
             "script": [],
             "playerHit1Script": [],
             "playerHit2Script": [],
-            "playerHit3Script": []
+            "playerHit3Script": [],
+            "parallax": [
+                {
+                    "height": 0,
+                    "speed": 128
+                }
+            ]
         }
     ],
     "backgrounds": [
@@ -55747,17 +55753,17 @@
         }
     ],
     "settings": {
-        "startSceneId": "f87d0481-5d00-4dc3-9108-19cab291080b",
-        "startX": 34,
-        "startY": 44,
+        "startSceneId": "9a82932a-879d-4719-a6a6-32e6fdaa05ee",
+        "startX": 37,
+        "startY": 15,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 4503.3330078125,
-        "worldScrollY": 5076.66650390625,
-        "zoom": 175,
+        "worldScrollX": 2796.66650390625,
+        "worldScrollY": 3637.499755859375,
+        "zoom": 125,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
