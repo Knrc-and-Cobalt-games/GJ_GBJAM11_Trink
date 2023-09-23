@@ -1099,8 +1099,8 @@
             "autoFadeSpeed": 1,
             "id": "68e656e2-f7eb-4fda-bfc0-38dc80f3b51b",
             "symbol": "scene_1",
-            "x": 4484.932643955287,
-            "y": 1018.4496553209101,
+            "x": 1648.932643955287,
+            "y": 382.4496553209101,
             "actors": [
                 {
                     "name": "",
@@ -1698,7 +1698,7 @@
             "autoFadeEventCollapse": false
         },
         {
-            "name": "Scene 4",
+            "name": "CAVEENTRY",
             "backgroundId": "4a57bb69-df8c-481b-9e67-ad29eb376944",
             "width": 22,
             "height": 36,
@@ -2502,8 +2502,8 @@
             "autoFadeSpeed": 1,
             "id": "1da66301-94a4-4938-874e-eec1c2705f45",
             "symbol": "scene_4",
-            "x": 5532.804168701171,
-            "y": 876.3353688557945,
+            "x": 4684.804168701171,
+            "y": 1016.3353688557945,
             "actors": [],
             "triggers": [
                 {
@@ -3580,8 +3580,8 @@
             "autoFadeSpeed": 1,
             "id": "c46c9402-2ffb-4974-83b9-c9c645667359",
             "symbol": "scene_5",
-            "x": 5003.076629275369,
-            "y": 1033.4645102001375,
+            "x": 4231.076629275369,
+            "y": 1181.4645102001375,
             "actors": [],
             "triggers": [
                 {
@@ -4085,7 +4085,7 @@
             "autoFadeEventCollapse": true
         },
         {
-            "name": "Scene 7",
+            "name": "CHANGE TO FOREST BRIDGE",
             "backgroundId": "d62017a2-af26-465c-acdf-e7f692253d66",
             "width": 20,
             "height": 18,
@@ -4457,8 +4457,8 @@
             "autoFadeSpeed": 1,
             "id": "ca2c18b4-8fdf-4535-a4c7-4d8166680b38",
             "symbol": "scene_7",
-            "x": 1901.8767755417568,
-            "y": 1197.8383674258253,
+            "x": 4584.543442208425,
+            "y": 1407.616145203603,
             "actors": [
                 {
                     "name": "",
@@ -22904,8 +22904,8 @@
             "autoFadeSpeed": 1,
             "id": "e099ca1c-2977-4645-b3e7-402125229326",
             "symbol": "scene_30",
-            "x": 5070.50278116862,
-            "y": 1235.6513905843087,
+            "x": 4130.50278116862,
+            "y": 1359.6513905843085,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -22986,7 +22986,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 31",
+            "name": "CAVEWALK",
             "backgroundId": "40679dbd-fb46-4991-9c1a-3ea3c1602eac",
             "width": 80,
             "height": 80,
@@ -29398,8 +29398,8 @@
             "autoFadeSpeed": 1,
             "id": "72980ec7-c434-441d-a6b1-73ca8e8ece16",
             "symbol": "scene_31",
-            "x": 5802.902770996095,
-            "y": 508.89583333333326,
+            "x": 4462.902770996095,
+            "y": 352.89583333333326,
             "actors": [],
             "triggers": [
                 {
@@ -29480,7 +29480,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 32",
+            "name": "MOUNTAINWEIRD",
             "backgroundId": "6005c26d-aec2-48bb-9634-5b1491100c62",
             "width": 60,
             "height": 45,
@@ -30572,8 +30572,8 @@
             "autoFadeSpeed": 1,
             "id": "85bc6d30-161f-4b2e-823c-6d334e14bde5",
             "symbol": "scene_32",
-            "x": 6448.274971516929,
-            "y": 594.9946123395634,
+            "x": 5132.274971516929,
+            "y": 470.99461233956345,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -30631,7 +30631,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 33",
+            "name": "SUMMIT",
             "backgroundId": "8d0aa3f6-2469-4c60-872a-20090825d05e",
             "width": 45,
             "height": 18,
@@ -31453,8 +31453,8 @@
             "autoFadeSpeed": 1,
             "id": "144810e4-d129-459f-a2e1-487ee337ebf3",
             "symbol": "scene_33",
-            "x": 5731.880521647135,
-            "y": 332.051365152995,
+            "x": 4371.880521647135,
+            "y": 184.051365152995,
             "actors": [],
             "triggers": [
                 {
@@ -31511,7 +31511,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 34",
+            "name": "SUMMITSIGHT",
             "backgroundId": "76936f26-2cf0-4f9f-9515-549fa00e683a",
             "width": 45,
             "height": 18,
@@ -31522,8 +31522,8 @@
             "autoFadeSpeed": 1,
             "id": "bb5d63cd-86f8-4671-9910-6beab1a5fa1e",
             "symbol": "scene_34",
-            "x": 5732.680521647135,
-            "y": 159.34028116861975,
+            "x": 3948.680521647135,
+            "y": 199.34028116861975,
             "actors": [
                 {
                     "name": "HAMMER",
@@ -31604,7 +31604,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 35",
+            "name": "MOUNTAINROCKS",
             "backgroundId": "97860636-5594-4e7b-92cc-16809072a775",
             "width": 20,
             "height": 18,
@@ -31976,8 +31976,8 @@
             "autoFadeSpeed": 1,
             "id": "33e8321c-ce1a-453d-900a-45277565fd0f",
             "symbol": "scene_35",
-            "x": 1731.45352783203,
-            "y": 1208.1553353445888,
+            "x": 4412.786861165365,
+            "y": 1416.1553353445888,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -32058,7 +32058,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 36",
+            "name": "CORALENTRY",
             "backgroundId": "b7e2f7fa-de3d-41cc-ac64-c88a61bd8336",
             "width": 70,
             "height": 50,
@@ -35570,8 +35570,8 @@
             "autoFadeSpeed": 1,
             "id": "f87d0481-5d00-4dc3-9108-19cab291080b",
             "symbol": "scene_36",
-            "x": 2232.813895670573,
-            "y": 3742.451365152996,
+            "x": 2200.813895670573,
+            "y": 1666.451365152996,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -35652,7 +35652,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 37",
+            "name": "CORAL MAZE",
             "backgroundId": "a1da5148-deae-40e3-904c-0eabc7f82108",
             "width": 104,
             "height": 90,
@@ -45024,8 +45024,8 @@
             "autoFadeSpeed": 1,
             "id": "e45bf156-d3db-4179-adeb-76928979108b",
             "symbol": "scene_37",
-            "x": 2805.347229003907,
-            "y": 3352.451365152995,
+            "x": 2785.347229003907,
+            "y": 1236.451365152995,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -45106,7 +45106,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 38",
+            "name": "CORALPENGUIN",
             "backgroundId": "cf241b1f-69a0-4076-afe7-77299ff52663",
             "width": 40,
             "height": 44,
@@ -46878,8 +46878,8 @@
             "autoFadeSpeed": 1,
             "id": "867d4217-4b48-4322-9f94-00b9fdc686f6",
             "symbol": "scene_38",
-            "x": 2933.791564941406,
-            "y": 2980.0069478352893,
+            "x": 3021.791564941406,
+            "y": 872.0069478352893,
             "actors": [
                 {
                     "name": "FISH TREASURE",
@@ -46960,7 +46960,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 39",
+            "name": "CORALTUNNEL",
             "backgroundId": "c0c0c472-44f0-4853-9548-525b684a2b5c",
             "width": 40,
             "height": 20,
@@ -47772,8 +47772,8 @@
             "autoFadeSpeed": 1,
             "id": "9a82932a-879d-4719-a6a6-32e6fdaa05ee",
             "symbol": "scene_39",
-            "x": 2610.141540527346,
-            "y": 3076.1373718261707,
+            "x": 2690.141540527346,
+            "y": 1028.1373718261707,
             "actors": [],
             "triggers": [
                 {
@@ -47840,7 +47840,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 40",
+            "name": "CORALSIGHT",
             "backgroundId": "90a73a1b-6fa7-4dae-a3fa-49b0384e94b3",
             "width": 40,
             "height": 20,
@@ -48652,8 +48652,8 @@
             "autoFadeSpeed": 1,
             "id": "f8e64056-28e7-4942-b9c2-e25d5c84e84e",
             "symbol": "scene_40",
-            "x": 2278.8075938831676,
-            "y": 3068.8601205008376,
+            "x": 2362.8075938831676,
+            "y": 1020.8601205008376,
             "actors": [
                 {
                     "name": "FISHING ROD",
@@ -48725,7 +48725,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 41",
+            "name": "CORALSLIME",
             "backgroundId": "b90c7854-c154-4626-8c94-7c30eba90588",
             "width": 20,
             "height": 18,
@@ -49097,8 +49097,8 @@
             "autoFadeSpeed": 1,
             "id": "d1d76885-007d-4a25-b3eb-61a9890bfe08",
             "symbol": "scene_41",
-            "x": 2044.1416707356757,
-            "y": 3857.0708353678388,
+            "x": 2008.1416707356757,
+            "y": 1773.0708353678388,
             "actors": [],
             "triggers": [
                 {
@@ -49180,7 +49180,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 42",
+            "name": "CORALHOUSE",
             "backgroundId": "d8676535-f0ee-44ec-a4ed-4d066bf0e439",
             "width": 32,
             "height": 40,
@@ -50472,8 +50472,8 @@
             "autoFadeSpeed": 1,
             "id": "bc308ea7-abec-425d-85e4-ffe84e138ac2",
             "symbol": "scene_42",
-            "x": 1764.458231608073,
-            "y": 3738.6736145019518,
+            "x": 1737.7915649414062,
+            "y": 1686.6736145019518,
             "actors": [
                 {
                     "name": "",
@@ -50618,7 +50618,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 43",
+            "name": "CORAL TO MOUNTAIN",
             "backgroundId": "2dfece20-d086-4e35-9569-b26ebde0c030",
             "width": 60,
             "height": 18,
@@ -51710,8 +51710,8 @@
             "autoFadeSpeed": 1,
             "id": "b3229b43-b4b1-462e-a71f-defe38625ad7",
             "symbol": "scene_43",
-            "x": 3636.1750152587874,
-            "y": 3888.8208435058596,
+            "x": 3640.1750152587874,
+            "y": 1472.8208435058596,
             "actors": [],
             "triggers": [],
             "script": [],
@@ -51731,7 +51731,7 @@
             "playerSpriteSheetId": "5e49a0c9-46ac-48af-af56-4b308cde3587"
         },
         {
-            "name": "Scene 44",
+            "name": "CORALWELL",
             "backgroundId": "9a1e5523-e492-438c-9702-0f0dc4890110",
             "width": 20,
             "height": 18,
@@ -52103,8 +52103,8 @@
             "autoFadeSpeed": 1,
             "id": "ae077da4-36b3-4114-b27c-543cdf3e7f13",
             "symbol": "scene_44",
-            "x": 1807.124979654947,
-            "y": 4080.0069478352866,
+            "x": 1795.124979654947,
+            "y": 2068.0069478352866,
             "actors": [
                 {
                     "name": "TREASURE",
@@ -60757,9 +60757,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 10535,
-        "worldScrollY": 11353.3330078125,
-        "zoom": 375,
+        "worldScrollX": 0,
+        "worldScrollY": 0,
+        "zoom": 25,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
