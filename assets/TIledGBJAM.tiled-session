@@ -5,8 +5,13 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Blueridge.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 8
+        }
     },
     "last.imagePath": "C:/Users/pmanl_elk0z95/Documents/GBJAM11/assets/backgrounds",
     "map.height": 40,
@@ -14,9 +19,11 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "Blueridge.tsx"
     ],
     "project": "TIledGBJAM.tiled-project",
     "recentFiles": [
+        "Blueridge.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
