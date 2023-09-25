@@ -31657,7 +31657,7 @@
                             "args": {
                                 "sceneId": "72980ec7-c434-441d-a6b1-73ca8e8ece16",
                                 "x": 10,
-                                "y": 6,
+                                "y": 7,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
@@ -84421,8 +84421,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 5452,
-        "worldScrollY": 1340,
+        "worldScrollX": 5159,
+        "worldScrollY": 3,
         "zoom": 125,
         "customColorsEnabled": true,
         "sgbEnabled": false,
