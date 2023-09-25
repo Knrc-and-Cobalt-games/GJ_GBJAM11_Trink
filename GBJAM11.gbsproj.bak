@@ -4398,7 +4398,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "5aabeec7-3f6a-4e8f-b41d-37d838ccc330",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -31705,7 +31705,7 @@
                     "name": "TREASURE",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "5aabeec7-3f6a-4e8f-b41d-37d838ccc330",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -34039,6 +34039,121 @@
                     "id": "25e0f3e9-fb9f-44b1-a011-15c1055993f4",
                     "x": 10,
                     "y": 14
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_27",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "b85cdf17-2175-4ae7-afc6-b4ab9c9a012f",
+                    "x": 4,
+                    "y": 7
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_28",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "0dd93ea4-9c14-4ba7-908d-df75e3cd907d",
+                    "x": 4,
+                    "y": 9
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_29",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "a637e6f1-454a-4924-b4e3-8c73d16843f3",
+                    "x": 4,
+                    "y": 11
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_30",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "237e77a0-39ee-4da8-9b21-83757f383314",
+                    "x": 2,
+                    "y": 11
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_31",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "f3caac43-246e-4e81-ab32-6d4b2856a1a9",
+                    "x": 2,
+                    "y": 7
                 }
             ],
             "triggers": [
@@ -37615,7 +37730,7 @@
                     "name": "TREASURE",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "37a3e937-140f-4760-8310-d28025e57a91",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -54249,7 +54364,7 @@
                     "name": "TREASURE",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "c5d4ba63-2d3e-445a-b57f-79c36fb9c20a",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -60847,7 +60962,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "5aabeec7-3f6a-4e8f-b41d-37d838ccc330",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -62955,7 +63070,7 @@
                     "name": "",
                     "frame": 0,
                     "animate": false,
-                    "spriteSheetId": "f8a3caa6-f1eb-4048-828f-4f58d5a838fb",
+                    "spriteSheetId": "5aabeec7-3f6a-4e8f-b41d-37d838ccc330",
                     "direction": "down",
                     "moveSpeed": 1,
                     "animSpeed": 15,
@@ -63785,7 +63900,7 @@
                     "hit3Script": [],
                     "id": "d209b3ee-e7c8-496a-b5b1-60c6e94cad36",
                     "x": 9,
-                    "y": 4
+                    "y": 6
                 }
             ],
             "triggers": [
@@ -70151,6 +70266,16 @@
             "tileColors": []
         },
         {
+            "id": "2bf5df8d-7e12-44e9-9d48-c5ababead8e2",
+            "name": "FloorTreasure",
+            "symbol": "bg_floortreasure",
+            "width": 4,
+            "height": 2,
+            "imageWidth": 32,
+            "imageHeight": 16,
+            "filename": "FloorTreasure.png"
+        },
+        {
             "id": "3eb11ed1-ffbc-466c-99c0-cbb8587fce45",
             "name": "ForestMainTEST",
             "symbol": "bg_forestmaintest",
@@ -74335,6 +74460,165 @@
                 }
             ],
             "numTiles": 2,
+            "canvasWidth": 16,
+            "canvasHeight": 16,
+            "boundsX": 0,
+            "boundsY": 0,
+            "boundsWidth": 16,
+            "boundsHeight": 16,
+            "animSpeed": 15
+        },
+        {
+            "id": "5aabeec7-3f6a-4e8f-b41d-37d838ccc330",
+            "name": "FloorTreasure",
+            "symbol": "sprite_floortreasure",
+            "numFrames": 2,
+            "type": "animated",
+            "filename": "FloorTreasure.png",
+            "checksum": "0ac305d03b1bb76280b9a80d9bc4a6afbeddc81b",
+            "width": 32,
+            "height": 16,
+            "states": [
+                {
+                    "id": "176cff25-d0c8-428e-8d88-4569ab119530",
+                    "name": "",
+                    "animationType": "fixed",
+                    "flipLeft": false,
+                    "animations": [
+                        {
+                            "id": "7114ef01-e23a-4c95-8490-9f3d7d52527f",
+                            "frames": [
+                                {
+                                    "id": "b9d343c3-0c85-4925-b4fc-91983e86d56e",
+                                    "tiles": [
+                                        {
+                                            "id": "be898962-918c-487b-8a18-ee8f287b324b",
+                                            "x": 0,
+                                            "y": 0,
+                                            "sliceX": 0,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        },
+                                        {
+                                            "id": "a432b7e6-926b-4e6c-8bee-7c2b5bf18c6b",
+                                            "x": 8,
+                                            "y": 0,
+                                            "sliceX": 8,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "2923c89d-e8dc-4b90-a773-c0eb9d078830",
+                                    "tiles": [
+                                        {
+                                            "id": "77a38849-4861-4218-adeb-303eb757bcca",
+                                            "x": 0,
+                                            "y": 0,
+                                            "sliceX": 16,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        },
+                                        {
+                                            "id": "eed6c388-9be5-4d4d-ae8b-a0c939cd73c8",
+                                            "x": 8,
+                                            "y": 0,
+                                            "sliceX": 24,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2eb1f455-f2bb-45ac-9348-478e723a0a79",
+                            "frames": [
+                                {
+                                    "id": "fbcf84f4-10c5-4c17-b3bc-50d4f2c8c596",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "53ab71a8-ddc4-499d-8d59-b122c90f75b4",
+                            "frames": [
+                                {
+                                    "id": "679e0e9e-3cbd-4025-90c8-02f8bf7203c5",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "fc09fcf2-a1a2-40d3-8650-456deb40c31e",
+                            "frames": [
+                                {
+                                    "id": "789771b3-7361-49ae-97dd-6b98f12413a0",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9a5b3b5e-ae1c-4c5b-95b7-277c26c00a4f",
+                            "frames": [
+                                {
+                                    "id": "97956c4d-6859-41b7-9750-e390f3ac4b35",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e42b3daf-12a2-40f9-86e1-54138ad38d98",
+                            "frames": [
+                                {
+                                    "id": "544a3371-8f57-4067-b542-da0fa16def7f",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "721c4424-5bca-46bc-bf02-d894b862258b",
+                            "frames": [
+                                {
+                                    "id": "161943b1-b349-4d4f-a541-b575982a1478",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ce7e9f09-a123-4875-8089-4c826b30c81d",
+                            "frames": [
+                                {
+                                    "id": "8904d41d-4618-4b7b-b51b-6c755f9637e7",
+                                    "tiles": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "numTiles": 4,
             "canvasWidth": 16,
             "canvasHeight": 16,
             "boundsX": 0,
@@ -81079,9 +81363,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 0,
-        "worldScrollY": 0,
-        "zoom": 25,
+        "worldScrollX": 7079.99951171875,
+        "worldScrollY": 2003.333251953125,
+        "zoom": 175,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
