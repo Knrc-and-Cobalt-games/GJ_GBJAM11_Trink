@@ -64512,13 +64512,6 @@
                     "startScript": [],
                     "updateScript": [
                         {
-                            "command": "EVENT_ACTOR_HIDE",
-                            "args": {
-                                "actorId": "$self$"
-                            },
-                            "id": "dacc2189-d7a3-4ea3-8ae5-306b9fa147a7"
-                        },
-                        {
                             "command": "EVENT_IF_TRUE",
                             "args": {
                                 "variable": "5",
@@ -84284,7 +84277,7 @@
             "symbol": "sound_click_wav",
             "filename": "click.wav",
             "type": "wav",
-            "inode": "844424930583758",
+            "inode": "14355223812245519",
             "_v": 1695605257131
         }
     ],
@@ -84518,15 +84511,15 @@
     ],
     "settings": {
         "startSceneId": "a7a5006b-53a9-413e-ae30-e61479c5ad77",
-        "startX": 10,
-        "startY": 15,
+        "startX": 9,
+        "startY": 14,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 2863.333251953125,
-        "worldScrollY": 843.3333129882812,
+        "worldScrollX": 0,
+        "worldScrollY": 0,
         "zoom": 75,
         "customColorsEnabled": true,
         "sgbEnabled": false,
@@ -84555,9 +84548,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            205,
-            161,
-            724
+            242,
+            190,
+            854
         ],
         "showNavigator": true,
         "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
