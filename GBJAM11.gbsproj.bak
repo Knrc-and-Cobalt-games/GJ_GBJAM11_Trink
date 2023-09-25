@@ -71124,10 +71124,10 @@
                                                     "command": "EVENT_TEXT",
                                                     "args": {
                                                         "text": [
-                                                            "You digged a \nPokerchip"
+                                                            "You digged a \nCactus"
                                                         ],
                                                         "avatarId": "",
-                                                        "__collapse": true
+                                                        "__collapse": false
                                                     },
                                                     "id": "5d2e0b90-757a-40bb-ab68-ddd6335463a4"
                                                 },
@@ -84421,8 +84421,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 5159,
-        "worldScrollY": 3,
+        "worldScrollX": 2460,
+        "worldScrollY": 711,
         "zoom": 125,
         "customColorsEnabled": true,
         "sgbEnabled": false,
